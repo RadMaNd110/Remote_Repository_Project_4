@@ -1,0 +1,3 @@
+this file is about Git and github 
+
+unknow. why line color is Red.

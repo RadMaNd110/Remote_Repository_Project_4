@@ -2,4 +2,8 @@ Remote repository demo project
 
 Initial version
 
-This line was added remotely.
+this file is for last project = this file is for the previous project.
+
+=> این فایل برای پروژه قبلی است.
+
+This file belongs to the previous project => این فایل مربوط به پروژه قبلی است.
